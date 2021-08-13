@@ -50,7 +50,7 @@
             },
             {
                 "size": "16 US",
-                "avalible": false
+                "avalible": true
             }
         ]
     },
@@ -340,7 +340,7 @@
         "reason": "Спорт",
         "season": "Лето",
         "heelSize": "2 см.",
-        "price":23000,
+        "price": 23000,
         "sizes": [
             {
                 "size": "12 US",
